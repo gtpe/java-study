@@ -7,5 +7,7 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-.idea
-java-study.iml
+/.idea
+/misc.xml
+/modules.xml
+/java-study.iml
