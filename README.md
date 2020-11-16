@@ -3,6 +3,7 @@
 # 자바 기초 스터디
 
 https://github.com/whiteship/live-study <br/>
+https://www.youtube.com/user/whiteship2000 <br/>
 <br/><br/>
 
 ### <a href="/w3.md">3주차 과제: 연산자</a>
