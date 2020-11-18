@@ -15,8 +15,8 @@
  * |                     | The formsxand\xxare also legal, as in\0,                                      |
  * |                     | but are not recommended because they can cause difficulties                   |
  * |                     | in string constants where the escape sequence is followed by a regular digit. |
- * |                     | This form is generally discouraged in favor of the \uXXXX form.               |
- * |         \uxxxx      | The Unicode character with encodingxxxx, wherexxxxis four hexadecimal digits. |
+ * |                     | This form is generally discouraged in favor of the \\uXXXX form.               |
+ * |         \\uxxxx      | The Unicode character with encodingxxxx, wherexxxxis four hexadecimal digits. |
  * |                     | Unicode escapes can appear anywhere in a Java program,                        |
  * |                     | not only in character and string literals.                                    |
  * -------------------------------------------------------------------------------------------------------
