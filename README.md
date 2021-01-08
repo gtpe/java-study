@@ -6,6 +6,7 @@ https://github.com/whiteship/live-study <br/>
 https://www.youtube.com/user/whiteship2000 <br/>
 <br/><br/>
 
+### <a href="/w8.md">8주차 과제: 인터페이스</a>
 ### <a href="/w7.md">7주차 과제: 패키지</a>
 ### <a href="/w6.md">6주차 과제: 상속</a>
 ### <a href="/w5.md">5주차 과제: 클래스</a>
