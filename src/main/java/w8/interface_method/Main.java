@@ -1,4 +1,4 @@
-package w8;
+package w8.interface_method;
 
 public class Main implements CustomCalculator {
 

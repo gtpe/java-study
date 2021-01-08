@@ -1,4 +1,4 @@
-package w8;
+package w8.interface_method;
 
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
