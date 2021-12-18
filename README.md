@@ -2,6 +2,7 @@
 
 # 자바 기초 스터디
 
+https://github.com/whiteship/live-study/wiki/%EC%8B%9C%EC%A6%8C-1-%EC%9E%90%EB%B0%94-%EA%B8%B0%EC%B4%88-%EC%8A%A4%ED%84%B0%EB%94%94 <br/>
 https://github.com/whiteship/live-study <br/>
 https://www.youtube.com/user/whiteship2000 <br/>
 <br/><br/>
